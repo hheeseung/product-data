@@ -1,25 +1,23 @@
-{
-  "product": [
-    {
-      "id": 103,
-      "name": "King's Hawaiian Sweet Rolls",
-      "price": 8.72,
-      "content": "King's Hawaiian Sweet Rolls, 32 ct",
-      "image": "https://www.instacart.com/assets/domains/product-image/file/large_790b1283-19f4-4f0a-a770-6499efbdf375.jpg"
-    },
-    {
-      "id": 104,
-      "name": "Kirkland Signature Chicken Breasts",
-      "price": 9.57,
-      "content": "Kirkland Signature Chicken Breast, 6.5 lbs",
-      "image": "https://www.instacart.com/assets/domains/product-image/file/large_cd4b5bdc-aa70-4be8-a4a7-6d7dca51acee.jpg"
-    },
-    {
-      "id": 105,
-      "name": "Kirkland Signature Organic Eggs",
-      "price": 10.93,
-      "content": "Kirkland Signature Organic Pasture Raised USDA Grade A Eggs, 24 ct",
-      "image": "https://www.instacart.com/assets/domains/product-image/file/large_b71f9906-4f7b-49e9-87c5-2b8ec114184a.jpg"
-    }
-  ]
-}
+[
+  {
+    "id": 103,
+    "name": "King's Hawaiian Sweet Rolls",
+    "price": 8.72,
+    "content": "King's Hawaiian Sweet Rolls, 32 ct",
+    "image": "https://www.instacart.com/assets/domains/product-image/file/large_790b1283-19f4-4f0a-a770-6499efbdf375.jpg"
+  },
+  {
+    "id": 104,
+    "name": "Kirkland Signature Chicken Breasts",
+    "price": 9.57,
+    "content": "Kirkland Signature Chicken Breast, 6.5 lbs",
+    "image": "https://www.instacart.com/assets/domains/product-image/file/large_cd4b5bdc-aa70-4be8-a4a7-6d7dca51acee.jpg"
+  },
+  {
+    "id": 105,
+    "name": "Kirkland Signature Organic Eggs",
+    "price": 10.93,
+    "content": "Kirkland Signature Organic Pasture Raised USDA Grade A Eggs, 24 ct",
+    "image": "https://www.instacart.com/assets/domains/product-image/file/large_b71f9906-4f7b-49e9-87c5-2b8ec114184a.jpg"
+  }
+]

@@ -1,25 +1,23 @@
-{
-  "product": [
-    {
-      "id": 109,
-      "name": "Canada Dry",
-      "price": 20.91,
-      "content": "Canada Dry Summer Variety Pack, 36 x 12 fl oz",
-      "image": "https://www.instacart.com/assets/domains/product-image/file/large_52b2fcd8-4bf0-40e7-aa88-02f5c2a60c1f.jpg"
-    },
-    {
-      "id": 110,
-      "name": "Columbus Turkey Bacon",
-      "price": 18.65,
-      "content": "Columbus Turkey Bacon, 2.5 lbs",
-      "image": "https://www.instacart.com/assets/domains/product-image/file/large_c9c3b0c7-3d03-4514-ade0-278561e8bc07.jpg"
-    },
-    {
-      "id": 111,
-      "name": "Ruffles Original Potato Chips",
-      "price": 6.95,
-      "content": "Ruffles Original Potato Chips, 28 oz",
-      "image": "https://www.instacart.com/assets/domains/product-image/file/large_88770c90-59bd-44c3-8d01-74e663f3c241.png"
-    }
-  ]
-}
+[
+  {
+    "id": 109,
+    "name": "Canada Dry",
+    "price": 20.91,
+    "content": "Canada Dry Summer Variety Pack, 36 x 12 fl oz",
+    "image": "https://www.instacart.com/assets/domains/product-image/file/large_52b2fcd8-4bf0-40e7-aa88-02f5c2a60c1f.jpg"
+  },
+  {
+    "id": 110,
+    "name": "Columbus Turkey Bacon",
+    "price": 18.65,
+    "content": "Columbus Turkey Bacon, 2.5 lbs",
+    "image": "https://www.instacart.com/assets/domains/product-image/file/large_c9c3b0c7-3d03-4514-ade0-278561e8bc07.jpg"
+  },
+  {
+    "id": 111,
+    "name": "Ruffles Original Potato Chips",
+    "price": 6.95,
+    "content": "Ruffles Original Potato Chips, 28 oz",
+    "image": "https://www.instacart.com/assets/domains/product-image/file/large_88770c90-59bd-44c3-8d01-74e663f3c241.png"
+  }
+]
